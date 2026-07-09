@@ -1,0 +1,477 @@
+[
+  {
+    "id": "category-17738145510070.611343084601335",
+    "name": "Web 服务",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.465,
+        "name": "HTTP",
+        "internalUrl": "http://localhost:80",
+        "externalUrl": "http://127.0.0.1:80",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/548/548487.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.926,
+        "name": "HTTPS",
+        "internalUrl": "http://localhost:443",
+        "externalUrl": "http://127.0.0.1:443",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.6467,
+        "name": "Nginx",
+        "internalUrl": "http://localhost:80",
+        "externalUrl": "http://127.0.0.1:80",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1059/1059192.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1826,
+        "name": "Web 服务",
+        "internalUrl": "http://localhost:8080",
+        "externalUrl": "http://127.0.0.1:8080",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1059/1059192.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.051753286678112964",
+    "name": "前端开发",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.9255,
+        "name": "React / Node",
+        "internalUrl": "http://localhost:3000",
+        "externalUrl": "http://127.0.0.1:3000",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/919/919825.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.3416,
+        "name": "Vite",
+        "internalUrl": "http://localhost:5173",
+        "externalUrl": "http://127.0.0.1:5173",
+        "iconUrl": "https://vitejs.dev/logo.svg",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.6804,
+        "name": "Python Web",
+        "internalUrl": "http://localhost:8000",
+        "externalUrl": "http://127.0.0.1:8000",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1822/1822055.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.06783157628239556",
+    "name": "数据库",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.7124,
+        "name": "MySQL",
+        "internalUrl": "http://localhost:3306",
+        "externalUrl": "http://127.0.0.1:3306",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.815,
+        "name": "PostgreSQL",
+        "internalUrl": "http://localhost:5432",
+        "externalUrl": "http://127.0.0.1:5432",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968342.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.2373,
+        "name": "MongoDB",
+        "internalUrl": "http://localhost:27017",
+        "externalUrl": "http://127.0.0.1:27017",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968325.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.5159,
+        "name": "Redis",
+        "internalUrl": "http://localhost:6379",
+        "externalUrl": "http://127.0.0.1:6379",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968270.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1836,
+        "name": "SQL Server",
+        "internalUrl": "http://localhost:1433",
+        "externalUrl": "http://127.0.0.1:1433",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.0752,
+        "name": "Oracle",
+        "internalUrl": "http://localhost:1521",
+        "externalUrl": "http://127.0.0.1:1521",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.3727075173720893",
+    "name": "中间件",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.745,
+        "name": "Nacos",
+        "internalUrl": "http://localhost:8081",
+        "externalUrl": "http://127.0.0.1:8081",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/6319/6319421.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.607,
+        "name": "Kafka",
+        "internalUrl": "http://localhost:9092",
+        "externalUrl": "http://127.0.0.1:9092",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.734,
+        "name": "Elasticsearch",
+        "internalUrl": "http://localhost:9200",
+        "externalUrl": "http://127.0.0.1:9200",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968276.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1636,
+        "name": "ZooKeeper",
+        "internalUrl": "http://localhost:2181",
+        "externalUrl": "http://127.0.0.1:2181",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/6319/6319423.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.9705,
+        "name": "RabbitMQ",
+        "internalUrl": "http://localhost:5672",
+        "externalUrl": "http://127.0.0.1:5672",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.657,
+        "name": "RabbitMQ 管理",
+        "internalUrl": "http://localhost:15672",
+        "externalUrl": "http://127.0.0.1:15672",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.3982,
+        "name": "Kibana",
+        "internalUrl": "http://localhost:5601",
+        "externalUrl": "http://127.0.0.1:5601",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968276.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.1255860841245373",
+    "name": "容器服务",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.457,
+        "name": "Docker API",
+        "internalUrl": "http://localhost:2375",
+        "externalUrl": "http://127.0.0.1:2375",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968344.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1218,
+        "name": "Portainer 管理",
+        "internalUrl": "http://localhost:9000",
+        "externalUrl": "http://127.0.0.1:9000",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968344.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.652,
+        "name": "Portainer HTTPS",
+        "internalUrl": "http://localhost:9443",
+        "externalUrl": "http://127.0.0.1:9443",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968344.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.3006639721420865",
+    "name": "私有云 / NAS",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.363,
+        "name": "CloudDrive2 (CD2)",
+        "internalUrl": "http://localhost:19798",
+        "externalUrl": "http://127.0.0.1:19798",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.0269,
+        "name": "飞牛 fnOS 管理",
+        "internalUrl": "http://localhost:5666",
+        "externalUrl": "http://127.0.0.1:5666",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4213/4213340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.749,
+        "name": "飞牛 fnOS 数据",
+        "internalUrl": "http://localhost:5667",
+        "externalUrl": "http://127.0.0.1:5667",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4213/4213340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.5571,
+        "name": "飞牛 fnOS Web",
+        "internalUrl": "http://localhost:8000",
+        "externalUrl": "http://127.0.0.1:8000",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4213/4213340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.901,
+        "name": "飞牛 fnOS 备用",
+        "internalUrl": "http://localhost:8001",
+        "externalUrl": "http://127.0.0.1:8001",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4213/4213340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.6,
+        "name": "NextCloud",
+        "internalUrl": "http://localhost:8080",
+        "externalUrl": "http://127.0.0.1:8080",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1572,
+        "name": "Alist",
+        "internalUrl": "http://localhost:5244",
+        "externalUrl": "http://127.0.0.1:5244",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.01974229972229624",
+    "name": "面板环境",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.2954,
+        "name": "宝塔面板",
+        "internalUrl": "http://localhost:8888",
+        "externalUrl": "http://127.0.0.1:8888",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1059/1059192.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.0436109615833884",
+    "name": "下载工具",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.4473,
+        "name": "qBittorrent",
+        "internalUrl": "http://localhost:8080",
+        "externalUrl": "http://127.0.0.1:8080",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.975,
+        "name": "Transmission",
+        "internalUrl": "http://localhost:9091",
+        "externalUrl": "http://127.0.0.1:9091",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1704,
+        "name": "Aria2 控制台",
+        "internalUrl": "http://localhost:6800",
+        "externalUrl": "http://127.0.0.1:6800",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.0264,
+        "name": "AriaNg WebUI",
+        "internalUrl": "http://localhost:6888",
+        "externalUrl": "http://127.0.0.1:6888",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.3003536773690012",
+    "name": "文件管理",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.9941,
+        "name": "FileBrowser",
+        "internalUrl": "http://localhost:8080",
+        "externalUrl": "http://127.0.0.1:8080",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.4269068439026258",
+    "name": "影音服务",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.5713,
+        "name": "Jellyfin",
+        "internalUrl": "http://localhost:8096",
+        "externalUrl": "http://127.0.0.1:8096",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.1987,
+        "name": "Plex",
+        "internalUrl": "http://localhost:32400",
+        "externalUrl": "http://127.0.0.1:32400",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.9866,
+        "name": "Navidrome",
+        "internalUrl": "http://localhost:4533",
+        "externalUrl": "http://127.0.0.1:4533",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.5081504153714274",
+    "name": "监控运维",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.6538,
+        "name": "Grafana",
+        "internalUrl": "http://localhost:3000",
+        "externalUrl": "http://127.0.0.1:3000",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.0935,
+        "name": "Prometheus",
+        "internalUrl": "http://localhost:9090",
+        "externalUrl": "http://127.0.0.1:9090",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.6116,
+        "name": "Node Exporter",
+        "internalUrl": "http://localhost:9100",
+        "externalUrl": "http://127.0.0.1:9100",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.1826966710407525",
+    "name": "智能家居",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.6523,
+        "name": "Home Assistant",
+        "internalUrl": "http://localhost:8123",
+        "externalUrl": "http://127.0.0.1:8123",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968340.png",
+        "icon": "🌐"
+      }
+    ]
+  },
+  {
+    "id": "category-17738145510070.31245623677096557",
+    "name": "系统工具",
+    "collapsed": false,
+    "items": [
+      {
+        "id": 1773814551006.4636,
+        "name": "SSH",
+        "internalUrl": "http://localhost:22",
+        "externalUrl": "http://127.0.0.1:22",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1059/1059160.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.8184,
+        "name": "VNC",
+        "internalUrl": "http://localhost:5900",
+        "externalUrl": "http://127.0.0.1:5900",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2848/2848608.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.5544,
+        "name": "RDP 远程桌面",
+        "internalUrl": "http://localhost:3389",
+        "externalUrl": "http://127.0.0.1:3389",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2848/2848608.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.4712,
+        "name": "SMB 共享",
+        "internalUrl": "http://localhost:445",
+        "externalUrl": "http://127.0.0.1:445",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      },
+      {
+        "id": 1773814551006.599,
+        "name": "FTP",
+        "internalUrl": "http://localhost:21",
+        "externalUrl": "http://127.0.0.1:21",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/3059/3059491.png",
+        "icon": "🌐"
+      }
+    ]
+  }
+]
